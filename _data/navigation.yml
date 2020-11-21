@@ -2,7 +2,7 @@
   link: /#
   dropdown:
     - name: VIX
-      link: /indices/page-vix/
+      link: /indices/vix/
 - name: Portfolio
   link: /#
   dropdown:
