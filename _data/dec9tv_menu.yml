@@ -1,0 +1,12 @@
+- label: Example Menu
+  items:
+    - name: Pages
+      link: /#
+      items:
+        - name: VIX
+          link: /page-vix/
+    - name: portfolio
+      link: /#
+      items:
+        - name: VIX
+          link: /page-vix/
