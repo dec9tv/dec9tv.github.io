@@ -4,7 +4,9 @@
       link: /#
       items:
         - name: VIX
-          link: /page-vix/
+          link: /page-vixx/
+        - name: VIX
+          link: /_pages/page-vixx/
     - name: portfolio
       link: /#
       items:
