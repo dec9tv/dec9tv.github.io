@@ -3,7 +3,7 @@ title: slow-stochastic
 subtitle: technical-indicator
 layout: page
 show_sidebar: false
-menubar: dec9tv_menu
+menubar: indices_menu
 ---
 
 가격을 토대로 한 심리 지표

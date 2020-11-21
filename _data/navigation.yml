@@ -7,7 +7,7 @@
   link: /#
   dropdown:
     - name: slow-stochastic
-      link: /logic/slow-stochastic/
+      link: /trading/logic/slow-stochastic/
     - name: 반도체
       link: /trading/portfolio/semiconductor/
     - name: 2차 전지

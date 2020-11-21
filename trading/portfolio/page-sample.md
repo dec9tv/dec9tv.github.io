@@ -3,7 +3,7 @@ title: VIXX
 subtitle: CBOE Volatility Index
 layout: page
 show_sidebar: false
-menubar: dec9tv_menu
+menubar: trading_menu
 ---
 
 VIX 지수
