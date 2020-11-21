@@ -51,8 +51,8 @@ sass:
 defaults:
   -
     scope:
-      path: "/contents"
-      type: "contents"
+      path: ""
+      type: "pages"
     values:
       show_sidebar: true
   -
