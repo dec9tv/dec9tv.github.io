@@ -1,0 +1,20 @@
+- label: Trading
+  items:
+    - name: Logic
+      link: /#
+      items:
+        - name: Trading Rules
+          link: /logic/page-sample/
+        - name: slow-stochastic
+          link: /logic/slow-stochastic/
+    - name: Portfolio
+      link: /#
+      items:
+        - name: 반도체
+          link: /trading/portfolio/semiconductor/
+        - name: 2차 전지
+          link: /trading/portfolio/battery/
+        - name: 5G
+          link: /trading/portfolio/5g/
+        - name: 환경
+          link: /trading/portfolio/environment/

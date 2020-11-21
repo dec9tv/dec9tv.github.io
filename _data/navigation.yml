@@ -1,11 +1,20 @@
-- name: Pages
+- name: Indices
   link: /#
   dropdown:
     - name: VIX
-      link: /page-vix/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
+      link: /indices/page-vix/
+- name: Portfolio
+  link: /#
+  dropdown:
+    - name: slow-stochastic
+      link: /logic/slow-stochastic/
+    - name: 반도체
+      link: /trading/portfolio/semiconductor/
+    - name: 2차 전지
+      link: /trading/portfolio/battery/
+    - name: 5G
+      link: /trading/portfolio/5g/
+    - name: 반도체
+      link: /trading/portfolio/semiconductor/
 - name: Blog
   link: /blog/

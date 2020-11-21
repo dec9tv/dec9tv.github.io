@@ -1,0 +1,7 @@
+- label: Indices
+  items:
+    - name: Indices
+      link: /#
+      items:
+        - name: VIX
+          link: /indices/vix
