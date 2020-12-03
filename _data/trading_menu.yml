@@ -4,7 +4,7 @@
       link: /#
       items:
         - name: Trading Rules
-          link: /trading/logic/page-sample/
+          link: /trading/logic/trading-rules/
         - name: slow-stochastic
           link: /trading/logic/slow-stochastic/
     - name: Portfolio

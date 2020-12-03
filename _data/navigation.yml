@@ -6,6 +6,8 @@
 - name: Portfolio
   link: /#
   dropdown:
+    - name: Trading Rules
+      link: /trading/logic/trading-rules/
     - name: slow-stochastic
       link: /trading/logic/slow-stochastic/
     - name: 반도체
