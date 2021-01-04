@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "실전 매매 타이밍"
-date:   2018-05-28 10:50:07
+date:   2021-01-04 22:40:00
 categories: trading
 description: "기업 분석이 완료된 후 트레이딩을 언제할 지에 대한 팁"
 image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
