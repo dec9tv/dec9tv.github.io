@@ -16,7 +16,7 @@
       link: /trading/portfolio/battery/
     - name: 5G
       link: /trading/portfolio/5g/
-    - name: 반도체
-      link: /trading/portfolio/semiconductor/
+    - name: 환경/폐기물
+      link: /trading/portfolio/environment/
 - name: Blog
   link: /blog/
