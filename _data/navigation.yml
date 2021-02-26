@@ -4,7 +4,7 @@
     - name: VIX
       link: /indices/vix/
     - name: 미국 10년 채권 만기 수익률
-      link: /indices/us10y/      
+      link: /indices/us10y/
 - name: Portfolio
   link: /#
   dropdown:
